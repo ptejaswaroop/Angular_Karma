@@ -1,2 +1,1 @@
-# Angular_Karma
-Karma Testing in Angular2+
+Shopping Cart Sample
